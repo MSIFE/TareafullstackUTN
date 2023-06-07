@@ -5,6 +5,7 @@ import img04 from '../style/Img/img04.jpg';
 import img05 from '../style/Img/img05.jpg';
 import img06 from '../style/Img/img06.jpg';
 import img07 from '../style/Img/img07.jpg';
+import style from "../style/style.css";
 
 const Gallery =(props) =>{
     return(

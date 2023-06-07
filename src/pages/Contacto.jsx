@@ -1,3 +1,6 @@
+import style from "../style/style.css";
+
+
 const Contacto = (props) => {
     return (
         <>
@@ -55,10 +58,7 @@ const Contacto = (props) => {
                                 </div>
                             </form>
                             <h2 class="mt-5">Ubicación</h2>
-                           {/*  <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.3851032270586!2d-58.40420232344392!3d-34.594422257008915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca90c1b39e6f%3A0xcd36f95425fe1387!2sAv.%20Sta.%20Fe%202445%2C%20C1123AAG%20CABA%2C%20Argentina!5e0!3m2!1ses-419!2suy!4v1683645181415!5m2!1ses-419!2suy"
-                                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe> */}
+                        
                         </div>
 
                     </div>

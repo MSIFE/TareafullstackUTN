@@ -1,4 +1,4 @@
-import image from './layout/logo.png';
+import image from '../../style/Img/logo.png';
 
 const Header =(props) =>{
     return(

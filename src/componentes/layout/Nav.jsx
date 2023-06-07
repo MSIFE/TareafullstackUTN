@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
+
+import Header from "./Header";
+
 const Nav = (props) =>{
 return(
     <nav>
         <div class="holder">
-
+<Header />
             <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/nosotros">Nosotros</Link></li>
